@@ -38,7 +38,7 @@ Every topic follows a consistent 6-layer format:
 ```
 de-principal-architect-guide/
 ├── README.md
-├── chunks/
+├── Phases/
 │   ├── 01_fundamentals.md
 │   ├── 02_storage_formats.md
 │   ├── 03_data_modeling_p1.md
