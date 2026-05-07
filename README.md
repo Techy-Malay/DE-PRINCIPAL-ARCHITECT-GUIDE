@@ -183,7 +183,6 @@ open Phases/14_dbt_contracts_quickref.md
 |---|---|
 | LinkedIn | [linkedin.com/in/mkpadhi](https://linkedin.com/in/mkpadhi) |
 | GitHub | [github.com/Techy-Malay](https://github.com/Techy-Malay) |
-| WhatsApp | [+91 9922992309](https://wa.me/919922992309) |
 
 ---
 
